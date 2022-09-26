@@ -16,7 +16,7 @@
 	width: 34px;
 }
 
-.sc-connection .connectedAccountNameInner-2q3MVf {
+.sc-connection [class*="connectedAccountNameInner"] {
 	margin-left: -18px;
 	align-items: flex-end;
 }
@@ -27,7 +27,8 @@
 	bottom: -4px;
 }
 
-.connectedAccountIcon-1FXG0p {
+[class*="connectedAccountIcon"] {
 	width: 30px;
 	height: 30px;
 }
+
